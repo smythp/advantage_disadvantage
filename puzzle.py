@@ -92,8 +92,8 @@ def generate_percentage_success_series(roll_name, iterations=1000000):
 
 rolls_to_test = {
     "Regular die": roll,
-    "advantage": advantage,
-    "disadvantage": disadvantage,    
+    "Advantage": advantage,
+    "Disadvantage": disadvantage,    
     "Advantage of disadvantage": advantage_disadvantage,
     "Disadvantage of advantage": disadvantage_advantage
 }
